@@ -12,6 +12,8 @@ pip install imutils
 
 - A URL is being displayed on the Phone screen, type the same URL on your PC browser, and under “Video renderer” Section, click on “Javascript”.
 
+![alt text](https://s3.ap-southeast-1.amazonaws.com/upload.nasir.id/phone-camera.jpg)
+
 - You can see video captured on your phone, which starts showing up on your browser. Now, what we will be going to do is, taking image data from the URL using the request module and convert this to an image frame using NumPy, and finally, start using our Android camera as a webcam in Python.
 
 - In the code:
